@@ -1,0 +1,14 @@
+{
+  "name": "event-tickets",
+  "version": "1.0.0",
+  "description": "Issue tickets to an event on Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Carver",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^3.1.10"
+  }
+}
